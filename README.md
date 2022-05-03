@@ -1,2 +1,4 @@
 # webpack-config
-Webpack config for frontend development
+Webpack config for frontend development.
+
+SASS, Babel, Pug
